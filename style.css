@@ -7,7 +7,7 @@
 body {
     height: 100vh;
     background-color: #000;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.692), rgba(0, 0, 0, 0.295)), url(images/white-sport-car-with-black-autotuning-driving-by-forest.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.692), rgba(0, 0, 0, 0.295)), url(white-sport-car-with-black-autotuning-driving-by-forest.jpg);
     background-position: center;
     background-size: cover;
 }
